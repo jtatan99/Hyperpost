@@ -7,4 +7,6 @@ El mejor post para mejorar con platzi en el curso de Git y Github.
 - Flujo de trabajo de Github.
 - Creado por Jonathan Ortiz.
 - Inclute ejemplos en wundows lixun y mac.
+- Disponible para todas las edades.
+
 Y como recordatorio **Este curso es muy bueno para el mundo de un programador** gracias por la colaboración.
